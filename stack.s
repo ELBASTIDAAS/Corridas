@@ -2,10 +2,6 @@
 //@@ Depto de Sistemas y Computación
 //@@ Ing.En Sistemas Computacionales
 
-//@@ Autor : Hernández Fernández Diana @DianaHFer
-//@@ Repositorio: https://github.com/tectijuana/li20b3ej-4-DianaHFer(REPOSITORIO PRIVADO)
-//@@ Fecha de revisión : Miercoles 01 de Diciembre del 2020.
-
 
 //@ Objetivo del programa :
 
